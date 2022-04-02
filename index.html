@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Dosis:wght@700&family=Montserrat:wght@200&family=Palette+Mosaic&display=swap" rel="stylesheet">
+    <title>Hello world!</title>
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    
+<!--     <h1 style = "position:relative; top:400px;">
+      Calling all avengers!
+    </h1> -->
+    <p id = "paratext" style = "position:relative; top:390px;">
+      Welcome, Hero! Click the buttons in the pattern they are played to assemble earth's mightiest heroes!
+    </p>
+    <button id="startBtn" style = "position:relative; left: 590px; top:500px;" onclick="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+    <div id="container">
+    <div id="gameButtonArea" style = "position:relative; top:300px;">
+      <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
+      <button id="button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)"></button>
+      <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
+      <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button>
+      <button id="button5" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)"></button>
+    </div>
+    </div>
+  </body>
+</html>
