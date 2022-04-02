@@ -61,7 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/43b4f3557f284fd8a26f1b468acd6816)
 
 
 ## License
