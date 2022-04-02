@@ -1,0 +1,115 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 24px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  font-family: 'Bebas Neue', cursive;
+/*   font-family: 'Dosis', sans-serif; */
+/*   font-family: 'Montserrat', sans-serif; */
+/*   font-family: helvetica, arial, sans-serif; */
+  margin: 2em;
+  padding: 2em;
+  background: url(https://cdn.glitch.global/e7ba745e-bbee-4359-b3c0-9a72bdff4d11/iwbg.jpg?v=1648785363477) #b7e500;
+/*   background-image: "https://cdn.glitch.global/e7ba745e-bbee-4359-b3c0-9a72bdff4d11/thanos.jpg?v=1648766216813"; */
+/*   background-repeat; */
+  background-size: cover;
+  background-color: slategrey;
+  color: white; 
+  
+}
+
+h1 {
+/*    font-family: verdana, arial, sans-serif */
+}
+
+button {
+/*   display: flex; 
+  flex-direction: row;
+  justify-content: center;  */
+  padding: 10px;
+  border-radius: 30px;
+}
+
+
+#button5{
+    background: lightgreen;
+}
+#button5active, #button5lit{
+  background: darkgreen;
+}
+
+#button1{
+    background: blue;
+}
+#button1active, #button1lit{
+  background: lightblue;
+}
+
+#button4{
+    background: mediumslateblue;
+}
+#button4active, #button4lit{
+  background: lavender;
+}
+
+#button2{
+    background: crimson;
+}
+#button2active, #button2lit{
+  background: darkred;
+}
+
+#button3{
+    background: gold;
+}
+#button3active, #button3lit{
+  background: lightyellow;
+}
+
+#container {
+  display: flex;
+  justify-content: center; 
+  align-items: ;
+}
+
+#paratext{
+  text-align: center;
+}
+
+#startBtn{
+  display: flex;
+  justify-content: center;
+}
+#stopBtn{
+  display: flex;
+  justify-content: center;
+}
+
+#gameButtonArea > button {
+  width: 50px;
+  height: 50px;
+  margin: 25px;
+/*   flex-direction: row;  */
+/*   justify-content: center;  */
+/*   align-items: flex-baseline; */
+}
+
+.hidden {
+  display: none;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
