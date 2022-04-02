@@ -46,17 +46,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+Marvel's Avengers Background image - https://www.besthdwallpaper.com/movies/avengers-infinity-war-all-heroes-dt_en-US-894.html
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One challenge I encountered while creating my submission was the display being messed up when accessed from different types of devices. This causes an inconsistent rendering of the page from screen to screen. I am still in the process of fixing this by using relative positioning to judge based on screen size where to position the buttons and text.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I would like to know more about how live servers work and are accessible from almost any device. Additionally, how do production level companies regulate high numbers of employees and keep tabs on the quality of work each employee adds to the site?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+I would add more buttons for users to be able recreate more of the Avengers song. Additionally, I would implement a timer and background graphics- if the user wins under the time limit, the background shows the heroes celebrating. If the user misplays the pattern or does not complete it in time, an image of the villain would be displayed. I would refactor the start button to be integrated with the Avengers logo somehow (perhaps the A letter in start is the Avengers logo?) as well.
 
 
 ## Interview Recording URL Link
