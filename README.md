@@ -6,7 +6,7 @@ Submitted by: **Steven Isaac**
 
 Time spent: **12** hours spent in total
 
-Link to project: (https://furtive-fuchsia-spruce.glitch.me)
+Link to project: (https://avengers-song-trainer.glitch.me)
 
 ## Required Functionality
 
