@@ -62,11 +62,6 @@ I would like to know more about how live servers work and are accessible from al
 I would add more buttons for users to be able recreate more of the Avengers song. Additionally, I would implement a timer and background graphics- if the user wins under the time limit, the background shows the heroes celebrating. If the user misplays the pattern or does not complete it in time, an image of the villain would be displayed. I would refactor the start button to be integrated with the Avengers logo somehow (perhaps the A letter in start is the Avengers logo?) as well.
 
 
-// ## Interview Recording URL Link
-
-// [My 5-minute Interview Recording](https://www.loom.com/share/43b4f3557f284fd8a26f1b468acd6816)
-
-
 ## License
 
     Copyright [STEVEN ISAAC]
