@@ -1,3 +1,4 @@
+[MY FIRST INDEPENDENT GITHUB PROJECT! Initially created for CodePath interview process]
 # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
